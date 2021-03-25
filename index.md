@@ -5,7 +5,7 @@
 ### Projects
 
 [TwitchX](https://github.com/Ziyang-Wang/TwitchXBackend)
-<img src="https://github.com/Ziyang-Wang/SatLink/blob/master/SatLinkDemo.gif?raw=true"/>
+<img src="https://github.com/Ziyang-Wang/TwitchXBackend/blob/master/TwitchXDemo.gif?raw=true"/>
 
 ---
 [OnlineShop](https://github.com/Ziyang-Wang/OnlineShop)
