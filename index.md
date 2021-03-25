@@ -2,25 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[TwitchX](/sample_page)
+[TwitchX](https://github.com/Ziyang-Wang/TwitchXBackend)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[OnlineShop](/pdf/sample_presentation.pdf)
+[OnlineShop](https://github.com/Ziyang-Wang/OnlineShop)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[SatLink](http://example.com/)
+[SatLink](https://github.com/Ziyang-Wang/SatLink)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
